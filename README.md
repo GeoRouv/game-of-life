@@ -2,7 +2,8 @@
 
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970
 
-Implementation done within the course of the subject "Parallel Systems" during 2016-2017 by our team: _Panagiotis Kokkinakos_ , _Theodoros Stefou_ , _Georgios Rouvalis_ .
+Implementation done within the course of the subject "Parallel Systems" during 2016-2017 by our team:
+ *Panagiotis Kokkinakos* , *Theodoros Stefou* , *Georgios Rouvalis* .
 
 # Compilation and Run:
 
