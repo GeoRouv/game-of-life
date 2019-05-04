@@ -6,7 +6,7 @@ Implementation done within the course of the subject "Parallel Systems" during t
 
 **Panagiotis Kokkinakos** , **Theodoros Stefou** , **Georgios Rouvalis** 
 
-# Compilation and Run:
+## Compilation and Run:
 
 	Serial: Compile with $make and execute as follows: $./golSerial
 	
