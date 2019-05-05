@@ -13,14 +13,14 @@ Implementation done within the course of the subject "Parallel Systems" during t
 	Before executing anything compile with:
 	$ make
 	
-	Serial: 
+	* Serial: 
 	$ ./golSerial
 	
-	MPI(w/ reduction): 
+	* MPI(w/ reduction): 
 	$ mpiexec -f machines -n <Processes> ./golMpi
 	
-	OpenMP(w/o reduction): 
+	* OpenMP(w/o reduction): 
 	$ mpiexec -f machines -n <Processes> ./golOpenMP
 	
-	Cuda(w/o reduction): 
+	* Cuda(w/o reduction): 
 	$ ./golCuda
