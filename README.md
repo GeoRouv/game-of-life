@@ -10,13 +10,13 @@ Implementation done within the course of the subject "Parallel Systems" during t
 
 ## Compilation and Run:
 
-	Serial: Compile with $make and execute as follows: $./golSerial
+	Serial: Compile with $ make and execute as follows: $ ./golSerial
 	
 	MPI: We also include the lines of code that make the reduction.
-	Compile with $make and execute as follows: $mpiexec -f machines -n <Processes> ./golMpi
+	Compile with $ make and execute as follows: $ mpiexec -f machines -n <Processes> ./golMpi
 	
 	OpenMP: We do not include the lines of code that make the reduction.
-	Compile with $make and execute as follows: $mpiexec -f machines -n <Processes> ./golOpenMP
+	Compile with $ make and execute as follows: $ mpiexec -f machines -n <Processes> ./golOpenMP
 	
 	Cuda: We have not included the lines of code that make the reduction.
-	Compile with make and execute as follows: $./golCuda
+	Compile with make and execute as follows: $ ./golCuda
