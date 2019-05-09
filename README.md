@@ -8,10 +8,12 @@ Implementation done within the course of the subject "Parallel Systems" during t
 * **Theodoros Stefou** <br>
 * **Georgios Rouvalis** <br>
 
-## Compilation and Run:
+## Compile
 
 	Before executing anything compile with:
-	$ make
+	$ make	
+		
+## Run
 	
 	Serial: 
 	$ ./golSerial
